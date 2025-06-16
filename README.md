@@ -1,6 +1,8 @@
-whatsapp-scheduler is intended to automate sending messages to whatsapp.
+# Bulk Send Whatsapp
+bulk-send-whatsapp is intended to automate sending messages to whatsapp.
+You can import contact list in csv format, and bulk-send a template message in one-click. 
 
-# Project Setup
+## Project Setup
 1. Make sure you have python. You can install using command:
 ```powershell
 pip install python
